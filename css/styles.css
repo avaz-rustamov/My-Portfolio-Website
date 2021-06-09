@@ -29,6 +29,9 @@ body {
 .name {
   color: #222831;
 }
+.quote__text {
+  font-weight: 400;
+}
 .website__heading {
   color: #222831;
 }
