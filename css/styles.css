@@ -47,6 +47,12 @@ body {
 .website__item a {
   color: #00adb5;
 }
+.website__item a:hover {
+  color: #00acb594;
+}
+.website__item a:active {
+  color: #00acb54f;
+}
 .netlify {
   display: flex;
   align-items: center;
