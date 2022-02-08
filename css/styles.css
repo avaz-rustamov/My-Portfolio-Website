@@ -65,9 +65,12 @@ body {
 .websites {
   padding-bottom: 50px;
 }
-.name {
+.hero_heading {
   text-transform: uppercase;
-  color: #222831;
+  color: var(--lightest-slate);
+  font-size: var(--fz-heading);
+  line-height: 1.1;
+
 }
 .quote__text {
   font-weight: 400;
