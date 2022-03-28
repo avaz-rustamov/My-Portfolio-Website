@@ -274,6 +274,7 @@ img {
   text-decoration: none;
   text-transform: capitalize;
   color: #a8b2d1;
+  font-size: 18px;
 }
 .sitenav__link:hover {
   color: #64ffda;
