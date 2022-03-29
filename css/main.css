@@ -278,6 +278,7 @@ img {
 }
 .sitenav__link:hover {
   color: #64ffda;
+  transition: 1s ease;
 }
 
 .sitenav__link-item {
