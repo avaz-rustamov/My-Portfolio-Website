@@ -310,6 +310,15 @@ img {
   margin: 0;
 }
 
+.site_grid-header {
+  margin-left: auto;
+  margin-right: auto;
+  color: #a8b2d1;
+  font-size: 40px;
+  display: block;
+  margin: 0;
+}
+
 .site_grid-list {
   padding: 0;
 }
@@ -323,6 +332,12 @@ img {
 }
 
 .site_grid-link {
-  color: red;
-  padding: 11px;
+  color: #a8b2d1;
+  padding: 25px 35px;
+  display: block;
+  text-decoration: none;
+}
+
+.site_grid-item-header {
+  font-size: 25px;
 }/*# sourceMappingURL=main.css.map */

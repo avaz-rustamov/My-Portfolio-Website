@@ -5,6 +5,12 @@
 .site_grid-wrapper {
 }
 .site_grid-header {
+  margin-left: auto;
+  margin-right: auto;
+  color: $light-slate;
+  font-size: 40px;
+  display: block;
+  margin: 0;
 }
 .site_grid-list {
   padding: 0;
@@ -17,10 +23,13 @@
   border-radius: 5px;
 }
 .site_grid-link {
-  color: red;
-  padding: 11px;
+  color: $light-slate;
+  padding: 25px 35px;
+  display: block;
+  text-decoration: none;
 }
 .site_grid-item-header {
+  font-size: 25px;
 }
 .site_grid-item-text {
 }
