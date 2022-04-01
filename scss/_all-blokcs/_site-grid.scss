@@ -5,11 +5,10 @@
 .site_grid-wrapper {
 }
 .site_grid-header {
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  justify-content: center;
   color: $light-slate;
   font-size: 40px;
-  display: block;
   margin: 0;
   margin-bottom: 80px;
 }
