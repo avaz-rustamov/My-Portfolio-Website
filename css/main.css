@@ -278,7 +278,7 @@ img {
 }
 .sitenav__link:hover {
   color: #64ffda;
-  transition: 1s ease;
+  transition: 0.8s ease;
 }
 
 .sitenav__link-item {
@@ -308,4 +308,21 @@ img {
   color: #8892b0;
   font-size: 80px;
   margin: 0;
+}
+
+.site_grid-list {
+  padding: 0;
+}
+
+.site_grid-item {
+  max-width: 350px;
+  background-color: #112240;
+  margin: 0;
+  list-style: none;
+  border-radius: 5px;
+}
+
+.site_grid-link {
+  color: red;
+  padding: 11px;
 }/*# sourceMappingURL=main.css.map */
