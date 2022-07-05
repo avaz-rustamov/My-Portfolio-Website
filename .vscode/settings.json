@@ -1,17 +1,3 @@
-{ "liveSassCompile.settings.formats": [
-    {
-        "format": "expanded",
-        "extensionName": ".css",
-        "savePath": "/css",
-        "savePathSegmentKeys": null,
-        "savePathReplaceSegmentsWith": null
-    },
-    {
-        "format": "compressed",
-        "extensionName": ".min.css",
-        "savePath": "/css",
-        "savePathSegmentKeys": null,
-        "savePathReplaceSegmentsWith": null
-    },
-]
+{
+  "liveServer.settings.port": 5502
 }
